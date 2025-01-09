@@ -1,0 +1,415 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Law,,,Code,Type,Description
+VEHICLE OFFENCES,,,,,
+ 5-9 MPH Over,,,(VC)1001,Infraction,"No person shall drive a vehicle upon a roadway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property."
+10-19MPH Over,,,(VC)1002,Infraction,"No person shall drive a vehicle upon a roadway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property."
+20-29MPH Over,,,(VC)1003,Infraction,"No person shall drive a vehicle upon a roadway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property."
+30-39MPH Over,,,(VC)1004,Infraction,"No person shall drive a vehicle upon a roadway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property."
+40-50MPH Over,,,(VC)1005,Infraction,"No person shall drive a vehicle upon a roadway at a speed greater than is reasonable or prudent having due regard for weather, visibility, the traffic on, and the surface and width of, the highway, and in no event at a speed which endangers the safety of persons or property."
+Careless Driving,,,(VC)1006,Misdemeanor,"Any person who drives a vehicle in careless disregard for the safety of persons or property.                                                                                                                                                         
+(a) This may occur if a person is driving too fast, texting on a cell phone, illegal lane changes, etc...                                                                                                                                                   "
+Reckless Driving,,,(VC)1007,Felony,Any person who drives a motor vehicle at a speed greater than 50mph over the posted limit or in any way attempts to endanger the public by the way of driving without regard for the public.
+Reckless Evading,,,(VC)1008,Felony,Any person who fails to stop a vehicle for Blue lights and or Blue lights and siren of a law enforcment officer is guilty of this offence
+Failure to Maintain Lane,,,(VC)1009,Infraction,"Whenever any roadway has been divided into two or more clearly marked lanes for traffic in one direction, the following rules apply:
+
+(a) A vehicle shall be driven as nearly as practical entirely within a single lane and shall not be moved from the lane until such movement can be made with reasonable safety.
+
+(b) Official signs may be erected directing slow-moving traffic to use a designated lane or allocating specified lanes to traffic moving in the same direction, and drivers of vehicles shall obey the directions of the traffic device"
+Failure to Yield,,,(VC)1010,Infraction,"The driver of a vehicle intending to turn to the left or to complete a U-turn upon a highway, or to turn left into public or private property, or an alley, shall yield the right-of-way to all vehicles approaching from the opposite direction which are close enough to constitute a hazard at any time during the turning movement, and shall continue to yield the right-of-way to the approaching vehicles until the left turn or U-turn can be made with reasonable safety."
+Following too Closely,,,(VC)1011,Infraction,"The driver of a motor vehicle shall not follow another vehicle more closely than is reasonable and prudent, having due regard for the speed of such vehicle and the traffic upon, and the condition of, the roadway."
+Attachment of red or blue lights to a vehicle,,,(VC)1011,Infraction,No person shall attach any type of blue or red lighting to their vehicle that will impersonate law enforcement or emergency services.
+No Headlights/Tail-Lights,,,(VC)1012,Infraction,"A motor vehicle, other than a motorcycle, shall
+be equipped with at least two headlamps, with at least one on each side of the front of the vehicle, and, except as to vehicles registered prior to January 1, 1930, they shall be located directly above or in advance of the front axle of the vehicle. The headlamps and every light source in any headlamp unit shall be located at a height of not more than 54 inches nor less than 22 inches.                                                                                          
+
+(b) A motor vehicle, other than a motorcycle, shall be operated during darkness, or inclement weather, or both, with at least two lighted headlamps that comply with subdivision "
+Illegally Parked,,,(VC)1013,Infraction,".A person shall not stop, park, or leave standing any vehicle whether attended or unattended, except when necessary to avoid conflict with other traffic or in compliance with the directions of a peace officer or official traffic control device, in any of the following places:
+
+(f) On a portion of a sidewalk, or with the body of the vehicle extending over a portion of a sidewalk, except electric carts when authorized by local ordinance, as specified in Section 21114.5. Lights, mirrors, or devices that are required to be mounted upon a vehicle under this code may extend from the body of the vehicle over the sidewalk to a distance of not more than 10 inches.
+
+(g) Alongside or opposite a street or highway excavation or obstruction when stopping, standing, or parking would obstruct 
+
+(j) In a tube or tunnel, except vehicles of the authorities in charge, being used in the repair, maintenance, or inspection of the facility
+
+(l) In front of or upon that portion of a curb that has been cut down, lowered, or constructed to provide wheelchair accessibility to the sidewalk."
+Impeding Traffic,,,(VC)1014,Infraction,"No person shall drive upon a roadway or highway at such a slow speed as to impede or block the normal and reasonable movement of traffic unless the reduced speed is necessary for safe operation, because of a grade, or in compliance with law.
+
+No person shall bring a vehicle to a complete stop upon a roadway or highway so as to impede or block the normal and reasonable movement of traffic unless the stop is necessary for safe operation or in compliance with law."
+Improper Turn,,,(VC)1015,Infraction,"The driver of a vehicle intending to turn to the left or to complete a U-turn upon a highway, or to turn left into public or private property, or an alley, shall yield the right-of-way to all vehicles approaching from the opposite direction which are close enough to constitute a hazard at any time during the turning movement, and shall continue to yield the right-of-way to the approaching vehicles until the left turn or U-turn can be made with reasonable safety."
+Improper Lane Change,,,(VC)1016,Infraction,No person shall turn a vehicle from a direct course or move right or left upon a roadway until such movement can be made with reasonable safety and then only after the giving of an appropriate signal in the manner provided in this chapter in the event any other vehicle may be affected by the movement.
+Driving an Unsafe Vehicle,,,(VC)1017,Infraction,"It is unlawful to operate any vehicle or combination of vehicles which is in an unsafe condition, or which is not safely loaded, and which presents an immediate safety hazard."
+Illegal Passing,,,(VC)1018,Infraction,"(a) The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass to the left at a safe distance without interfering with the safe operation of the overtaken vehicle, subject to the limitations and exceptions set forth in this article.                                                                                                                                                                                                                               
+
+21752.No vehicle shall be driven to the left side of the roadway under the following conditions:
+
+(a) When approaching or upon the crest of a grade or a curve in the highway where the driver’s view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction.
+
+(b) When the view is obstructed upon approaching within 100 feet of any bridge, viaduct, or tunnel.
+
+(c) When approaching within 100 feet of or when traversing any railroad grade crossing.
+
+(d) When approaching within 100 feet of or when traversing any intersection.
+
+This section shall not apply upon a one-way roadway."
+Driving wrong way,,,(VC)1019,Infraction,"21650. Upon all highways, a vehicle shall be driven upon the right half of the roadway, except as follows:
+
+(a) When overtaking and passing another vehicle proceeding in the same direction under the rules governing that movement.
+
+(b) When placing a vehicle in a lawful position for, and when the vehicle is lawfully making, a left turn.
+
+(c) When the right half of a roadway is closed to traffic under construction or repair.
+
+(d) Upon a roadway restricted to one-way traffic.
+
+(e) When the roadway is not of sufficient width.
+
+(f) When the vehicle is necessarily traveling so slowly as to impede the normal movement of traffic, that portion of the highway adjacent to the right edge of the roadway may be utilized temporarily when in a condition permitting safe operation.
+
+(g) This section does not prohibit the operation of bicycles on any shoulder of a highway, on any sidewalk, on any bicycle path within a highway, or along any crosswalk or bicycle path crossing, where the operation is not otherwise prohibited by this code or local ordinance.
+
+(h) This section does not prohibit the operation of a transit bus on the shoulder of a state highway in conjunction with the implementation of a program authorized pursuant to Section 148.1 of the Streets and Highways Code on state highways within the areas served by the transit services of the Monterey-Salinas Transit District or the Santa Cruz Metropolitan Transit District."
+Driving while intoxicated,,,(VC)1020,Felony,"(a) It is unlawful for a person who is under the influence of any alcoholic beverage to drive a vehicle.
+
+(b) It is unlawful for a person who has 0.08 percent or more, by weight, of alcohol in his or her blood to drive a vehicle.
+
+(f) It is unlawful for a person who is under the influence of any drug to drive a vehicle.
+
+(g) It is unlawful for a person who is under the combined influence of any alcoholic beverage and drug to drive a vehicle."
+Illegal Street Racing,,,(VC)1021,Felony,"A person shall not engage in a motor vehicle speed contest on a highway. As used in this section, a motor vehicle speed contest includes a motor vehicle race against another vehicle, a clock, or other timing device. For purposes of this section, an event in which the time to cover a prescribed route of more than 20 miles is measured, but where the vehicle does not exceed the speed limits, is not a speed contest."
+Hit and Run,,,(VC)1022,Misdemeanor,"(a) The driver of any vehicle involved in an accident resulting only in damage to any property, including vehicles, shall immediately stop the vehicle at the nearest location that will not impede traffic or otherwise jeopardize the safety of other motorists. Moving the vehicle in accordance with this subdivision does not affect the question of fault. The driver shall also immediately do either of the following:
+
+(1) Locate and notify the owner or person in charge of that property of the name and address of the driver and owner of the vehicle involved and, upon locating the driver of any other vehicle involved or the owner or person in charge of any damaged property, upon being requested, present his or her driver’s license, and vehicle registration, to the other driver, property owner, or person in charge of that property. The information presented shall include the current residence address of the driver and of the registered owner. If the registered owner of an involved vehicle is present at the scene, he or she shall also, upon request, present his or her driver’s license information, if available, or other valid identification to the other involved parties.
+
+(2) Leave in a conspicuous place on the vehicle or other property damaged a written notice giving the name and address of the driver and of the owner of the vehicle involved and a statement of the circumstances thereof and shall without unnecessary delay notify the police department of the city wherein the collision occurred or, if the collision occurred in unincorporated territory, the local headquarters of the Department of the San Andreas State Police.
+
+(c) Any person failing to comply with all the requirements of this section is guilty of a misdemeanor."
+Hit and Run Causing Injury,,,(VC)1023,Felony,"(a) The driver of any vehicle involved in an accident resulting only in damage to any property, including vehicles, shall immediately stop the vehicle at the nearest location that will not impede traffic or otherwise jeopardize the safety of other motorists. Moving the vehicle in accordance with this subdivision does not affect the question of fault. The driver shall also immediately do either of the following:
+
+(1) Locate and notify the owner or person in charge of that property of the name and address of the driver and owner of the vehicle involved and, upon locating the driver of any other vehicle involved or the owner or person in charge of any damaged property, upon being requested, present his or her driver’s license, and vehicle registration, to the other driver, property owner, or person in charge of that property. The information presented shall include the current residence address of the driver and of the registered owner. If the registered owner of an involved vehicle is present at the scene, he or she shall also, upon request, present his or her driver’s license information, if available, or other valid identification to the other involved parties.
+
+(2) Leave in a conspicuous place on the vehicle or other property damaged a written notice giving the name and address of the driver and of the owner of the vehicle involved and a statement of the circumstances thereof and shall without unnecessary delay notify the police department of the city wherein the collision occurred or, if the collision occurred in unincorporated territory, the local headquarters of the Department of the San Andreas State Police.
+
+(c) Any person failing to comply with all the requirements of this section is guilty of a misdemeanor."
+Failure to Obey Traffic Control Device,,,(VC)1024,Infraction," A driver facing a steady circular red signal alone shall stop at a marked limit line, but if none, before entering the crosswalk on the near side of the intersection or, if none, then before entering the intersection, and shall remain stopped until an indication to proceed is shown, except as provided in subdivision. Except when a sign is in place prohibiting a turn, a driver, after stopping as required by subdivision (a), facing a steady circular red signal, may turn right, or turn left from a one-way street onto a one-way street. A driver making that turn shall yield the right-of-way to pedestrians lawfully within an adjacent crosswalk and to any vehicle that has approached or is approaching so closely as to constitute an immediate hazard to the driver, and shall continue to yield the right-of-way to that vehicle until the driver can proceed with reasonable safety.
+
+Any Driver who fails to yeild and or stop at a red light, yeild sign, stop sign or other traffic control device is guilty of this offence."
+HUNTING OFFENCES,,,,,
+Hunting in Restricted Areas,,,(HC)1001,Infraction,"Any person found to be hunting outside of hunting zones outlined by the hunter zone guide is guilty of this offence
+https://media.discordapp.net/attachments/576631181877968898/927129322685366272/GTAV-HD-MAP-roadmap.png?width=676&height=676"
+Unlicensed Hunting,,,(HC)1002,Infraction,Any person found to be hunting without the proper licence is guilty of this offence
+Animal Cruelty,,,(HC)1003,Misdemeanor,Any person who unnessisarily causes harm to a animal during the course of hunting or otherwise injures a animal for reasons other than self defence is guilty of this offence
+Hunting with a Non-Hunting Weapon,,,(HC)1004,Misdemeanor,Any person found to be hunting with a small caliber weapon is guilty of this offence (Shotgun is the only legal weapon)
+Hunting outside of hunting hours,,,(HC)1005,Infraction,Any person found to be night hunting is guilty of this offence. Hunting during Dusk to Dawn
+Poaching,,,(HC)1006,Felony,"The unlawful act of possesing meat,hide,fangs etc of any endangerd specises (Cougar,Sharks,Turtles)"
+Hunting From A Vehicle,,,(HC)1007,Felony,"The act of hunting from a vehicle, inside or in truck bed or hanging from a vehicle fall under this law"
+Hunting From/Near A Roadway,,,(HC)1008,Misdemeanor,Hunting from a roadway or within 100 yards of a roadway.
+MISDEMEANOR OFFENCES,,,,,
+Abuse of 911,,,(MC)1001,Misdemeanor,"(a) A person who knowingly allows the use or who uses the 911 emergency system for any reason other than because of an emergency is guilty of an infraction.
+
+(c) For purposes of this section, “emergency” means any condition in which emergency services will result in the saving of a life, a reduction in the destruction of property, quicker apprehension of criminals, or assistance with potentially life-threatening medical problems, a fire, a need for rescue, an imminent potential crime, or a similar situation in which immediate assistance is required."
+Assault,,,(MC)1002,Misdemeanor,"An assault is an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another."
+Battery,,,(MC)1003,Misdemeanor,A battery is any willful and unlawful use of force or violence upon the person of another.
+Burglary Tools,,,(MC)1004,Misdemeanor,"
+Every person having upon him or her in his or her possession a picklock, crow, keybit, crowbar, screwdriver, vise grip pliers, water-pump pliers, slidehammer, slim jim, tension bar, lock pick gun, tubular lock pick, bump key, floor-safe door puller, master key, ceramic or porcelain spark plug chips or pieces, or other instrument or tool with intent feloniously to break or enter into any building, railroad car, aircraft, or vessel, trailer coach, or vehicle as defined in the Vehicle Code, or who shall knowingly make or alter, or shall attempt to make or alter, any key or other instrument named above so that the same will fit or open the lock of a building, railroad car, aircraft, vessel, trailer coach, or vehicle as defined in the Vehicle Code, without being requested to do so by some person having the right to open the same, or who shall make, alter, or repair any instrument or thing, knowing or having reason to believe that it is intended to be used in committing a misdemeanor or felony, is guilty of a misdemeanor. Any of the structures mentioned in Section 459 shall be deemed to be a building within the meaning of this section."
+Carry Concealed Weapon,,,(MC)1005,Misdemeanor,"
+(a) A person is guilty of carrying a concealed firearm when the person does any of the following:
+
+(1) Carries concealed within any vehicle that is under the person’s control or direction any pistol, revolver, or other firearm capable of being concealed upon the person.
+
+(2) Carries concealed upon the person any pistol, revolver, or other firearm capable of being concealed upon the person.
+
+(3) Causes to be carried concealed within any vehicle in which the person is an occupant any pistol, revolver, or other firearm capable of being concealed upon the person.
+
+(b) A firearm carried openly in a belt holster is not concealed within the meaning of this section.
+
+(c) Carrying a concealed firearm in violation of this section is punishable as follows:
+
+(1) If the person previously has been convicted of any felony, or of any crime made punishable by a provision listed in Section 16580, as a felony.
+
+(2) If the firearm is stolen and the person knew or had reasonable cause to believe that it was stolen, as a felony.
+
+(3) If the person is an active participant in a criminal street gang, as defined in subdivision (a) of Section 186.22, under the Street Terrorism Enforcement and Prevention Act (Chapter 11 (commencing with Section 186.20) of Title 7 of Part 1), as a felony."
+Destruction of Property,,,(MC)1006,Misdemeanor,"Every person who maliciously commits any of the following acts with respect to any real or personal property not his or her own, in cases other than those specified by state law, is guilty of vandalism:
+
+(1) Defaces with graffiti or other inscribed material.
+
+(2) Damages.
+
+(3) Destroys."
+Dereliction of Duty,,,(MC)1007,Misdemeanor,
+Disorderly Conduct,,,(MC)1008,Misdemeanor,"(a) An individual who solicits anyone to engage in or who engages in lewd or dissolute conduct in any public place or in any place open to the public or exposed to public view.  
+
+(f) Who is found in any public place under the influence of intoxicating liquor, any drug, controlled substance, toluene, or any combination of any intoxicating liquor, drug, controlled substance, or toluene, in a condition that he or she is unable to exercise care for his or her own safety or the safety of others, or by reason of his or her being under the influence of intoxicating liquor, any drug, controlled substance, toluene, or any combination of any intoxicating liquor, drug, or toluene, interferes with or obstructs or prevents the free use of any street, sidewalk, or other public way.
+
+(h) Who loiters, prowls, or wanders upon the private property of another, at any time, without visible or lawful business with the owner or occupant. As used in this subdivision, “loiter” means to delay or linger without a lawful purpose for being on the property and for the purpose of committing a crime as opportunity may be discovered."
+Disturbing the Peace,,,(MC)1009,Misdemeanor,"Any of the following persons shall be punished by imprisonment in the county jail for a period of not more than 90 days, a fine of not more than four hundred dollars ($400), or both such imprisonment and fine:
+
+(1) Any person who unlawfully fights in a public place or challenges another person in a public place to fight.
+
+(2) Any person who maliciously and willfully disturbs another person by loud and unreasonable noise.
+
+(3) Any person who uses offensive words in a public place which are inherently likely to provoke an immediate violent reaction."
+Drug Paraphernalia ,,,(MC)1010,Misdemeanor,
+Failure to Identify,,,(MC)1011,Misdemeanor,"(a) Any person who falsely represents or identifies himself or herself as another person or as a fictitious person to any peace officer listed in Section 830.1 or 830.2, or subdivision (a) of Section 830.33, upon a lawful detention or arrest of the person, either to evade the process of the court, or to evade the proper identification of the person by the investigating officer is guilty of a misdemeanor.
+
+(b) Any person who falsely represents or identifies himself or herself as another person or as a fictitious person to any other peace officer defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2, upon lawful detention or arrest of the person, either to evade the process of the court, or to evade the proper identification of the person by the arresting officer is guilty of a misdemeanor if (1) the false information is given while the peace officer is engaged in the performance of his or her duties as a peace officer and (2) the person providing the false information knows or should have known that the person receiving the information is a peace officer."
+Illegal Gaming,,,(MC)1012,Misdemeanor,"
+Every person who deals, plays, or carries on, opens, or causes to be opened, or who conducts, either as owner or employee, whether for hire or not, any game of faro, monte, roulette, lansquenet, rouge et noire, rondo, tan, fan-tan, seven-and-a-half, twenty-one, hokey-pokey, or any banking or percentage game played with cards, dice, or any device, for money, checks, credit, or other representative of value, and every person who plays or bets at or against any of those prohibited games, is guilty of a misdemeanor, and shall be punishable by a fine not less than one hundred dollars ($100) nor more than one thousand dollars ($1,000), or by imprisonment in the county jail not exceeding six months, or by both the fine and imprisonment."
+Indecent Exposure,,,(MC)1013,Misdemeanor,"
+Every person who willfully and lewdly, either:
+
+1. Exposes his person, or the private parts thereof, in any public place, or in any place where there are present other persons to be offended or annoyed thereby; or,
+
+2. Procures, counsels, or assists any person so to expose himself or take part in any model artist exhibition, or to make any other exhibition of himself to public view, or the view of any number of persons, such as is offensive to decency, or is adapted to excite to vicious or lewd thoughts or acts, is guilty of a misdemeanor."
+Impersonation of an LEO,,,(MC)1014,Misdemeanor,"(a) Any person other than one who by law is given the authority of a peace officer, who willfully wears, exhibits, or uses the authorized uniform, insignia, emblem, device, label, certificate, card, or writing, of a peace officer, with the intent of fraudulently impersonating a peace officer, or of fraudulently inducing the belief that he or she is a peace officer, is guilty of a misdemeanor."
+Loitering,,,(MC)1015,Misdemeanor,"
+(h) Anyone who loiters, prowls, or wanders upon the private property of another, at any time, without visible or lawful business with the owner or occupant. As used in this subdivision, “loiter” means to delay or linger without a lawful purpose for being on the property and for the purpose of committing a crime as opportunity may be discovered.
+
+(i) Who, while loitering, prowling, or wandering upon the private property of another, at any time, peeks in the door or window of any inhabited building or structure, without visible or lawful business with the owner or occupant."
+Making a False Report,,,(MC)1016,Misdemeanor,Any person who knowingly makes a false statement or  a report to a law enforcment officer is guilty of this offence
+Obstruction,,,(MC)1017,Misdemeanor,"
+(a) (1) Every person who willfully resists, delays, or obstructs any public officer, peace officer, or an emergency medical technician, as defined in Division 2.5 (commencing with Section 1797) of the Health and Safety Code, in the discharge or attempt to discharge any duty of his or her office or employment, when no other punishment is prescribed, shall be punished by a fine not exceeding one thousand dollars ($1,000), or by imprisonment in a county jail not to exceed one year, or by both that fine and imprisonment."
+Open Alcohol Container,,,(MC)1018,Misdemeanor,"
+(a) Any person possessing any can, bottle, or other receptacle containing any alcoholic beverage that has been opened, or a seal broken, or the contents of which have been partially removed, in any city, county, or city and county owned park or other city, county, or city and county owned public place, or any recreation and park district, or any regional park or open-space district shall be guilty of an infraction if the city, county, or city and county has enacted an ordinance that prohibits the possession of those containers in those areas or the consumption of alcoholic beverages in those areas."
+Petty Theft,,,(MC)1019,Misdemeanor,"
+ (a) Every person who shall feloniously steal, take, carry, lead, or drive away the personal property of another, or who shall fraudulently appropriate property which has been entrusted to him or her, or who shall knowingly and designedly, by any false or fraudulent representation or pretense, defraud any other person of money, labor or real or personal property, or who causes or procures others to report falsely of his or her wealth or mercantile character and by thus imposing upon any person, obtains credit and thereby fraudulently gets or obtains possession of money, or property or obtains the labor or service of another, is guilty of theft. In determining the value of the property obtained, for the purposes of this section, the reasonable and fair market value shall be the test, and in determining the value of services received the contract price shall be the test. If there be no contract price, the reasonable and going wage for the service rendered shall govern. For the purposes of this section, any false or fraudulent representation or pretense made shall be treated as continuing, so as to cover any money, property or service received as a result thereof, and the complaint, information or indictment may charge that the crime was committed on any date during the particular period in question. The hiring of any additional employee or employees without advising each of them of every labor claim due and unpaid and every judgment that the employer has been unable to meet shall be prima facie evidence of intent to defraud.
+
+(b) (1) Except as provided in Section 10855 of the Vehicle Code, where a person has leased or rented the personal property of another person pursuant to a written contract, and that property has a value greater than one thousand dollars ($1,000) and is not a commonly used household item, intent to commit theft by fraud shall be rebuttably presumed if the person fails to return the personal property to its owner within 10 days after the owner has made written demand by certified or registered mail following the expiration of the lease or rental agreement for return of the property so leased or rented.
+"
+Possession of Drugs,,,(MC)1020,Misdemeanor,"Any person found to be in possesion of any amount of controlled substance or narcotics.
+
+Under state law the allowed possesion limits are as follows
+3 Joints
+1 Cannabis Seed
+Any person found to have more than the allowed limits of the above can be found guilty of this offence
+"
+Possession with Intent to Sell,,,(MC)1021,Misdemeanor,Any person found to be attempting or intending to sell or distribute a controlled substance or narcotic is guilty of this offence. 
+Possession of Stolen Property,,,(MC)1022,Misdemeanor,"Every person who buys or receives any property that has been stolen or that has been obtained in any manner constituting theft or extortion, knowing the property to be so stolen or obtained, or who conceals, sells, withholds, or aids in concealing, selling, or withholding any property from the owner, knowing the property to be so stolen or obtained, shall be punished by imprisonment "
+Prostitution,,,(MC)1023,Misdemeanor,"
+Except as provided in paragraph (5) of subdivision (b) and subdivision (l), every person who commits any of the following acts is guilty of disorderly conduct, a misdemeanor:
+
+(a) An individual who solicits anyone to engage in or who engages in lewd or dissolute conduct in any public place or in any place open to the public or exposed to public view.
+
+(b) (1) An individual who solicits, or who agrees to engage in, or who engages in, any act of prostitution with the intent to receive compensation, money, or anything of value from another person. An individual agrees to engage in an act of prostitution when, with specific intent to so engage, he or she manifests an acceptance of an offer or solicitation by another person to so engage, regardless of whether the offer or solicitation was made by a person who also possessed the specific intent to engage in an act of prostitution."
+Public Intoxication,,,(MC)1024,Misdemeanor,"
+(f) Who is found in any public place under the influence of intoxicating liquor, any drug, controlled substance, toluene, or any combination of any intoxicating liquor, drug, controlled substance, or toluene, in a condition that he or she is unable to exercise care for his or her own safety or the safety of others, or by reason of his or her being under the influence of intoxicating liquor, any drug, controlled substance, toluene, or any combination of any intoxicating liquor, drug, or toluene, interferes with or obstructs or prevents the free use of any street, sidewalk, or other public way."
+Resisting Arrest,,,(MC)1025,Misdemeanor,"
+(a) (1) Every person who willfully resists, delays, or obstructs any public officer, peace officer, or an emergency medical technician, as defined in Division 2.5 (commencing with Section 1797) of the Health and Safety Code, in the discharge or attempt to discharge any duty of his or her office or employment, when no other punishment is prescribed, shall be punished by a fine not exceeding one thousand dollars ($1,000), or by imprisonment in a county jail not to exceed one year, or by both that fine and imprisonment."
+Rioting,,,(MC)1026,Misdemeanor,"409.  Every person remaining present at the place of any riot, rout, or unlawful assembly, after the same has been lawfully warned to disperse, except public officers and persons assisting them in attempting to disperse the same, is guilty of a misdemeanor."
+Tampering with Evidence,,,(MC)1027,Misdemeanor,"135.5.  Any person who knowingly alters, tampers with, conceals, or destroys relevant evidence in any disciplinary proceeding against a public safety officer, for the purpose of harming that public safety officer, is guilty of a misdemeanor."
+Theft by Receiving,,,(MC)1028,Misdemeanor,"
+ (a) Every person who buys or receives any property that has been stolen or that has been obtained in any manner constituting theft or extortion, knowing the property to be so stolen or obtained, or who conceals, sells, withholds, or aids in concealing, selling, or withholding any property from the owner, knowing the property to be so stolen or obtained, shall be punished by imprisonment in a county jail for not more than one year, or imprisonment pursuant to subdivision (h) of Section 1170. However, if the value of the property does not exceed nine hundred fifty dollars ($950), the offense shall be a misdemeanor, punishable only by imprisonment in a county jail not exceeding one year, if such person has no prior convictions for an offense specified in clause (iv) of subparagraph (C) of paragraph (2) of subdivision (e) of Section 667 or for an offense requiring registration pursuant to subdivision (c) of Section 290."
+Trespassing,,,(MC)1029,Misdemeanor,"
+(m) Entering and occupying real property or structures of any kind without the consent of the owner, the owner’s agent, or the person in lawful possession.
+
+(q) Refusing or failing to leave a public building of a public agency during those hours of the day or night when the building is regularly closed to the public upon being requested to do so by a regularly employed guard, watchperson, or custodian of the public agency owning or maintaining the building or property, if the surrounding circumstances would indicate to a reasonable person that the person has no apparent lawful business to pursue.
+
+(t) (1) Entering upon private property, including contiguous land, real property, or structures thereon belonging to the same owner, whether or not generally open to the public, after having been informed by a peace officer at the request of the owner, the owner’s agent, or the person in lawful possession, and upon being informed by the peace officer that he or she is acting at the request of the owner, the owner’s agent, or the person in lawful possession, that the property is not open to the particular person; or refusing or failing to leave the property upon being asked to leave the property in the manner provided in this subdivision."
+Unlawful Assembly,,,(MC)1030,Misdemeanor,"
+Every person remaining present at the place of any riot, rout, or unlawful assembly, after the same has been lawfully warned to disperse, except public officers and persons assisting them in attempting to disperse the same, is guilty of a misdemeanor.
+"
+Vandalism,,,(MC)1031,Misdemeanor,"
+(a) Every person who maliciously commits any of the following acts with respect to any real or personal property not his or her own, in cases other than those specified by state law, is guilty of vandalism:
+
+(1) Defaces with graffiti or other inscribed material.
+
+(2) Damages.
+
+(3) Destroys."
+Vehicular Manslaughter,,,(MC)1032,Misdemeanor,"
+Manslaughter is the unlawful killing of a human being without malice. It is of three kinds:
+
+(a) Voluntary—upon a sudden quarrel or heat of passion.
+
+(b) Involuntary—in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act which might produce death, in an unlawful manner, or without due caution and circumspection. This subdivision shall not apply to acts committed in the driving of a vehicle.
+
+(c) Vehicular—
+
+(1) Except as provided in subdivision (a) of Section 191.5, driving a vehicle in the commission of an unlawful act, not amounting to a felony, and with gross negligence; or driving a vehicle in the commission of a lawful act which might produce death, in an unlawful manner, and with gross negligence.
+
+(2) Driving a vehicle in the commission of an unlawful act, not amounting to a felony, but without gross negligence; or driving a vehicle in the commission of a lawful act which might produce death, in an unlawful manner, but without gross negligence.
+
+(3) Driving a vehicle in connection with a violation of paragraph (3) of subdivision (a) of Section 550, where the vehicular collision or vehicular accident was knowingly caused for financial gain and proximately resulted in the death of any person. This paragraph does not prevent prosecution of a defendant for the crime of murder."
+Violating a Court Order,,,(MC)1033,Misdemeanor," 
+(a) Any intentional and knowing violation of a protective order, as defined in Section 6218 of the Family Code, or of an order issued pursuant to Section 527.6, 527.8, or 527.85 of the Code of Civil Procedure, or Section 15657.03 of the Welfare and Institutions Code, is a misdemeanor punishable by a fine of not more than one thousand dollars ($1,000), or by imprisonment in a county jail for not more than one year, or by both that fine and imprisonment."
+FELONY OFFENCES,,,,,
+Aiding and Abetting,,,(FC)1001,Felony,"
+Every person who, after a felony has been committed, harbors, conceals or aids a principal in such felony, with the intent that said principal may avoid or escape from arrest, trial, conviction or punishment, having knowledge that said principal has committed such felony or has been charged with such felony or convicted thereof, is an accessory to such felony."
+Aggravated Assault,,,(FC)1002,Felony,
+Aggravated Battery,,,(FC)1003,Felony,"
+(d) When a battery is committed against any person and serious bodily injury is inflicted on the person, the battery is punishable by imprisonment in a county jail not exceeding one year or imprisonment pursuant to subdivision (h) of Section 1170 for two, three, or four years."
+Aggravated Robbery,,,(FC)1004,Felony,"211.  Robbery is the felonious taking of personal property in the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear."
+Armed Robbery,,,(FC)1005,Felony," 
+Robbery is the felonious taking of personal property in the possession of another, from his person or immediate presence, and against his will, accomplished by means of force or fear."
+Arson,,,(FC)1006,Felony,"
+A person is guilty of arson when he or she willfully and maliciously sets fire to or burns or causes to be burned or who aids, counsels, or procures the burning of, any structure, forest land, or property.
+
+(a) Intentional—Any person who commits any act of arson with malice aforethought.
+(b) Negligent—Any person who, without malice aforethought, commits an act of arson."
+Attempted Murder,,,(FC)1007,Felony," 
+Every person who attempts to commit any crime, but fails, or is prevented or intercepted in its perpetration, shall be punished where no provision is made by law for the punishment of those attempts, as follows:
+
+(a) If the crime attempted is punishable by imprisonment in the state prison, or by imprisonment pursuant to subdivision (h) of Section 1170, the person guilty of the attempt shall be punished by imprisonment in the state prison or in a county jail, respectively, for one-half the term of imprisonment prescribed upon a conviction of the offense attempted. However, if the crime attempted is willful, deliberate, and premeditated murder, as defined in Section 189, the person guilty of that attempt shall be punished by imprisonment in the state prison for life with the possibility of parole. If the crime attempted is any other one in which the maximum sentence is life imprisonment or death, the person guilty of the attempt shall be punished by imprisonment in the state prison for five, seven, or nine years. The additional term provided in this section for attempted willful, deliberate, and premeditated murder shall not be imposed unless the fact that the attempted murder was willful, deliberate, and premeditated is charged in the accusatory pleading and admitted or found to be true by the trier of fact."
+Attempted Murder of an LEO,,,(FC)1008,Felony,"
+Every person who attempts to commit any crime, but fails, or is prevented or intercepted in its perpetration, shall be punished where no provision is made by law for the punishment of those attempts, as follows:
+
+(a) If the crime attempted is punishable by imprisonment in the state prison, or by imprisonment pursuant to subdivision (h) of Section 1170, the person guilty of the attempt shall be punished by imprisonment in the state prison or in a county jail, respectively, for one-half the term of imprisonment prescribed upon a conviction of the offense attempted. However, if the crime attempted is willful, deliberate, and premeditated murder, as defined in Section 189, the person guilty of that attempt shall be punished by imprisonment in the state prison for life with the possibility of parole. If the crime attempted is any other one in which the maximum sentence is life imprisonment or death, the person guilty of the attempt shall be punished by imprisonment in the state prison for five, seven, or nine years. The additional term provided in this section for attempted willful, deliberate, and premeditated murder shall not be imposed unless the fact that the attempted murder was willful, deliberate, and premeditated is charged in the accusatory pleading and admitted or found to be true by the trier of fact.(e) Notwithstanding subdivision (a), if attempted murder is committed upon a peace officer or firefighter, as those terms are defined in paragraphs (7) and (9) of subdivision (a) of Section 190.2, a custodial officer, as that term is defined in subdivision (a) of Section 831 or subdivision (a) of Section 831.5, a custody assistant, as that term is defined in subdivision (a) of Section 831.7, or a nonsworn uniformed employee of a sheriff’s department whose job entails the care or control of inmates in a detention facility, as defined in subdivision (c) of Section 289.6, and the person who commits the offense knows or reasonably should know that the victim is a peace officer, firefighter, custodial officer, custody assistant, or nonsworn uniformed employee of a sheriff’s department engaged in the performance of his or her duties, the person guilty of the attempt shall be punished by imprisonment in the state prison for life with the possibility of parole.
+This subdivision shall apply if it is proven that a direct but ineffectual act was committed by one person toward killing another human being and the person committing the act harbored express malice aforethought, namely, a specific intent to unlawfully kill another human being. The Legislature finds and declares that this paragraph is declaratory of existing law.
+"
+Bank Robbery,,,(FC)1009,Felony,
+Battery Against an LEO,,,(FC)1010,Felony,"243. (a) A battery is punishable by a fine not exceeding two thousand dollars ($2,000), or by imprisonment in a county jail not exceeding six months, or by both that fine and imprisonment.
+
+(b) When a battery is committed against the person of a peace officer, custodial officer, firefighter, emergency medical technician, lifeguard, security officer, custody assistant, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of his or her duties, whether on or off duty, including when the peace officer is in a police uniform and is concurrently performing the duties required of him or her as a peace officer while also employed in a private capacity as a part-time or casual private security guard or patrolman, or a nonsworn employee of a probation department engaged in the performance of his or her duties, whether on or off duty, or a physician or nurse engaged in rendering emergency medical care outside a hospital, clinic, or other health care facility, and the person committing the offense knows or reasonably should know that the victim is a peace officer, custodial officer, firefighter, emergency medical technician, lifeguard, security officer, custody assistant, process server, traffic officer, code enforcement officer, animal control officer, or search and rescue member engaged in the performance of his or her duties, nonsworn employee of a probation department, or a physician or nurse engaged in rendering emergency medical care, the battery is punishable by a fine not exceeding two thousand dollars ($2,000), or by imprisonment in a county jail not exceeding one year, or by both that fine and imprisonment."
+Brandishing a Firearm,,,(FC)1011,Felony,"
+
+(a) (1) Every person who, except in self-defense, in the presence of any other person, draws or exhibits any deadly weapon whatsoever, other than a firearm, in a rude, angry, or threatening manner, or who in any manner, unlawfully uses a deadly weapon other than a firearm in any fight or quarrel is guilty of a misdemeanor, punishable by imprisonment in a county jail for not less than 30 days.
+
+(2) Every person who, except in self-defense, in the presence of any other person, draws or exhibits any firearm, whether loaded or unloaded, in a rude, angry, or threatening manner, or who in any manner, unlawfully uses a firearm in any fight or quarrel is punishable as follows:
+
+(A) If the violation occurs in a public place and the firearm is a pistol, revolver, or other firearm capable of being concealed upon the person, by imprisonment in a county jail for not less than three months and not more than one year, by a fine not to exceed one thousand dollars ($1,000), or by both that fine and imprisonment."
+Brandishing a Weapon,,,(FC)1012,Felony,"
+(a) (1) Every person who, except in self-defense, in the presence of any other person, draws or exhibits any deadly weapon whatsoever, other than a firearm, in a rude, angry, or threatening manner, or who in any manner, unlawfully uses a deadly weapon other than a firearm in any fight or quarrel is guilty of a misdemeanor, punishable by imprisonment in a county jail for not less than 30 days."
+Burglary,,,(FC)1013,Felony,"
+Every person who enters any house, room, apartment, tenement, shop, warehouse, store, mill, barn, stable, outhouse or other building, tent, vessel, as defined in Section 21 of the Harbors and Navigation Code, floating home, as defined in subdivision (d) of Section 18075.55 of the Health and Safety Code, railroad car, locked or sealed cargo container, whether or not mounted on a vehicle, trailer coach, as defined in Section 635 of the Vehicle Code, any house car, as defined in Section 362 of the Vehicle Code, inhabited camper, as defined in Section 243 of the Vehicle Code, vehicle as defined by the Vehicle Code, when the doors are locked, aircraft as defined by Section 21012 of the Public Utilities Code, or mine or any underground portion thereof, with intent to commit grand or petit larceny or any felony is guilty of burglary. As used in this chapter, “inhabited” means currently being used for dwelling purposes, whether occupied or not. A house, trailer, vessel designed for habitation, or portion of a building is currently being used for dwelling purposes if, at the time of the burglary, it was not occupied solely because a natural or other disaster caused the occupants to leave the premises."
+Burglarize a Government Facility,,,(FC)1014,Felony,
+Bribery,,,(FC)1015,Felony,"
+Every person who gives or offers any bribe to any executive officer in this state, with intent to influence him in respect to any act, decision, vote, opinion, or other proceeding as such officer, is punishable by imprisonment in the state prison for two, three or four years, and is disqualified from holding any office in this state."
+Car Jacking,,,(FC)1016,Felony,"
+(a) “Carjacking” is the felonious taking of a motor vehicle in the possession of another, from his or her person or immediate presence, or from the person or immediate presence of a passenger of the motor vehicle, against his or her will and with the intent to either permanently or temporarily deprive the person in possession of the motor vehicle of his or her possession, accomplished by means of force or fear."
+Discharging a Firearm Unsafely,,,(FC)1017,Felony,
+Embezzlement,,,(FC)1018,Felony,"(PC)503.Embezzlement is the fraudulent appropriation of property by a person to whom it has been intrusted.
+
+504.Every officer of this state, or of any county, city, city and county, or other municipal corporation or subdivision thereof, and every deputy, clerk, or servant of that officer, and every officer, director, trustee, clerk, servant, or agent of any association, society, or corporation (public or private), who fraudulently appropriates to any use or purpose not in the due and lawful execution of that person’s trust, any property in his or her possession or under his or her control by virtue of that trust, or secretes it with a fraudulent intent to appropriate it to that use or purpose, is guilty of embezzlement.
+
+504a.Every person who shall fraudulently remove, conceal or dispose of any goods, chattels or effects, leased or let to him by any instrument in writing, or any personal property or effects of another in his possession, under a contract of purchase not yet fulfilled, and any person in possession of such goods, chattels, or effects knowing them to be subject to such lease or contract of purchase who shall so remove, conceal or dispose of the same with intent to injure or defraud the lessor or owner thereof, is guilty of embezzlement.
+
+505.Every carrier or other person having under his control personal property for the purpose of transportation for hire, who fraudulently appropriates it to any use or purpose inconsistent with the safe keeping of such property and its transportation according to his trust, is guilty of embezzlement, whether he has broken the package in which such property is contained, or has otherwise separated the items thereof, or not.
+
+506.Every trustee, banker, merchant, broker, attorney, agent, assignee in trust, executor, administrator, or collector, or person otherwise intrusted with or having in his control property for the use of any other person, who fraudulently appropriates it to any use or purpose not in the due and lawful execution of his trust, or secretes it with a fraudulent intent to appropriate it to such use or purpose, and any contractor who appropriates money paid to him for any use or purpose, other than for that which he received it, is guilty of embezzlement, and the payment of laborers and materialmen for work performed or material furnished in the performance of any contract is hereby declared to be the use and purpose to which the contract price of such contract, or any part thereof, received by the contractor shall be applied.
+
+507.Every person intrusted with any property as bailee, tenant, or lodger, or with any power of attorney for the sale or transfer thereof, who fraudulently converts the same or the proceeds thereof to his own use, or secretes it or them with a fraudulent intent to convert to his own use, is guilty of embezzlement.
+
+508.Every clerk, agent, or servant of any person who fraudulently appropriates to his own use, or secretes with a fraudulent intent to appropriate to his own use, any property of another which has come into his control or care by virtue of his employment as such clerk, agent, or servant, is guilty of embezzlement.
+
+509.A distinct act of taking is not necessary to constitute embezzlement.
+
+
+
+
+
+
+ "
+Escape from Custody,,,(FC)1019,Felony,"
+(a) Every person who, with the intent to defraud, knowing that he or she has no authority to do so, signs the name of another person or of a fictitious person to any of the items listed in subdivision (d) is guilty of forgery.
+
+(b) Every person who, with the intent to defraud, counterfeits or forges the seal or handwriting of another is guilty of forgery.
+
+(c) Every person who, with the intent to defraud, alters, corrupts, or falsifies any record of any will, codicil, conveyance, or other instrument, the record of which is by law evidence, or any record of any judgment of a court or the return of any officer to any process of any court, is guilty of forgery.
+
+(d) Every person who, with the intent to defraud, falsely makes, alters, forges, or counterfeits, utters, publishes, passes or attempts or offers to pass, as true and genuine, any of the following items, knowing the same to be false, altered, forged, or counterfeited, is guilty of forgery: any check, bond, bank bill, or note, cashier’s check, traveler’s check, money order, post note, draft, any controller’s warrant for the payment of money at the treasury, county order or warrant, or request for the payment of money, receipt for money or goods, bill of exchange, promissory note, order, or any assignment of any bond, writing obligatory, or other contract for money or other property, contract, due bill for payment of money or property, receipt for money or property, passage ticket, lottery ticket or share purporting to be issued under the California State Lottery Act of 1984, trading stamp, power of attorney, certificate of ownership or other document evidencing ownership of a vehicle or undocumented vessel, or any certificate of any share, right, or interest in the stock of any corporation or association, or the delivery of goods or chattels of any kind, or for the delivery of any instrument of writing, or acquittance, release or discharge of any debt, account, suit, action, demand, or any other thing, real or personal, or any transfer or assurance of money, certificate of shares of stock, goods, chattels, or other property whatever, or any letter of attorney, or other power to receive money, or to receive or transfer certificates of shares of stock or annuities, or to let, lease, dispose of, alien, or convey any goods, chattels, lands, or tenements, or other estate, real or personal, or falsifies the acknowledgment of any notary public, or any notary public who issues an acknowledgment knowing it to be false; or any matter described in subdivision (b)."
+Extortion,,,(FC)1020,Felony," 
+(a) Extortion is the obtaining of property or other consideration from another, with his or her consent, or the obtaining of an official act of a public officer, induced by a wrongful use of force or fear, or under color of official right.
+"
+Felon in Possession of a Firearm,,,(FC)1021,Felony,"
+(a) (1) Any person who has been convicted of, or has an outstanding warrant for, a felony under the laws of the United States, the State of San Andreas, or any other state, government, or country, or who is addicted to the use of any narcotic drug, and who owns, purchases, receives, or has in possession or under custody or control any firearm is guilty of a felony.
+"
+Forgery,,,(FC)1022,Felony,"
+(a) Every person who, with the intent to defraud, knowing that he or she has no authority to do so, signs the name of another person or of a fictitious person to any of the items listed in subdivision (d) is guilty of forgery.
+
+(b) Every person who, with the intent to defraud, counterfeits or forges the seal or handwriting of another is guilty of forgery.
+
+(c) Every person who, with the intent to defraud, alters, corrupts, or falsifies any record of any will, codicil, conveyance, or other instrument, the record of which is by law evidence, or any record of any judgment of a court or the return of any officer to any process of any court, is guilty of forgery.
+
+(d) Every person who, with the intent to defraud, falsely makes, alters, forges, or counterfeits, utters, publishes, passes or attempts or offers to pass, as true and genuine, any of the following items, knowing the same to be false, altered, forged, or counterfeited, is guilty of forgery: any check, bond, bank bill, or note, cashier’s check, traveler’s check, money order, post note, draft, any controller’s warrant for the payment of money at the treasury, county order or warrant, or request for the payment of money, receipt for money or goods, bill of exchange, promissory note, order, or any assignment of any bond, writing obligatory, or other contract for money or other property, contract, due bill for payment of money or property, receipt for money or property, passage ticket, lottery ticket or share purporting to be issued under the California State Lottery Act of 1984, trading stamp, power of attorney, certificate of ownership or other document evidencing ownership of a vehicle or undocumented vessel, or any certificate of any share, right, or interest in the stock of any corporation or association, or the delivery of goods or chattels of any kind, or for the delivery of any instrument of writing, or acquittance, release or discharge of any debt, account, suit, action, demand, or any other thing, real or personal, or any transfer or assurance of money, certificate of shares of stock, goods, chattels, or other property whatever, or any letter of attorney, or other power to receive money, or to receive or transfer certificates of shares of stock or annuities, or to let, lease, dispose of, alien, or convey any goods, chattels, lands, or tenements, or other estate, real or personal, or falsifies the acknowledgment of any notary public, or any notary public who issues an acknowledgment knowing it to be false; or any matter described in subdivision (b)."
+Fraud,,,(FC)1023,Felony,"
+(a) Every person who knowingly and designedly, by any false or fraudulent representation or pretense, defrauds any other person of money, labor, or property, whether real or personal, or who causes or procures others to report falsely of his or her wealth or mercantile character, and by thus imposing upon any person obtains credit, and thereby fraudulently gets possession of money or property, or obtains the labor or service of another, is punishable in the same manner and to the same extent as for larceny of the money or property so obtained."
+Grand Theft,,,(FC)1024,Felony,"487.  Grand theft is theft committed in any of the following cases:
+
+(a) When the money, labor, or real or personal property taken is of a value exceeding nine hundred fifty dollars ($950), except as provided in subdivision (b).
+
+(b) Notwithstanding subdivision (a), grand theft is committed in any of the following cases:
+
+(1) (A) When domestic fowls, avocados, olives, citrus or deciduous fruits, other fruits, vegetables, nuts, artichokes, or other farm crops are taken of a value exceeding two hundred fifty dollars ($250).
+
+(B) For the purposes of establishing that the value of domestic fowls, avocados, olives, citrus or deciduous fruits, other fruits, vegetables, nuts, artichokes, or other farm crops under this paragraph exceeds two hundred fifty dollars ($250), that value may be shown by the presentation of credible evidence which establishes that on the day of the theft domestic fowls, avocados, olives, citrus or deciduous fruits, other fruits, vegetables, nuts, artichokes, or other farm crops of the same variety and weight exceeded two hundred fifty dollars ($250) in wholesale value.
+
+(2) When fish, shellfish, mollusks, crustaceans, kelp, algae, or other aquacultural products are taken from a commercial or research operation which is producing that product, of a value exceeding two hundred fifty dollars ($250).
+
+(3) Where the money, labor, or real or personal property is taken by a servant, agent, or employee from his or her principal or employer and aggregates nine hundred fifty dollars ($950) or more in any 12 consecutive month period.
+
+(c) When the property is taken from the person of another.
+
+(d) When the property taken is any of the following:
+
+(1) An automobile.
+
+(2) A firearm."
+Kidnapping,,,(FC)1025,Felony,"207.  (a) Every person who forcibly, or by any other means of instilling fear, steals or takes, or holds, detains, or arrests any person in this state, and carries the person into another country, state, or county, or into another part of the same county, is guilty of kidnapping."
+Manslaughter,,,(FC)1026,Felony,".  
+Manslaughter is the unlawful killing of a human being without malice. It is of three kinds:
+
+(a) Voluntary—upon a sudden quarrel or heat of passion.
+
+(b) Involuntary—in the commission of an unlawful act, not amounting to a felony; or in the commission of a lawful act which might produce death, in an unlawful manner, or without due caution and circumspection. This subdivision shall not apply to acts committed in the driving of a vehicle.
+"
+Manufacturing Narcotics,,,(FC)1027,Felony,"The manufacture of any controlled substance and or cannabis. 
+
+Under state law one (1) Cannabis plant may be cultivated at a time by a individual for the sole purpase of personel use."
+Mass Murder,,,(FC)1028,Felony,
+Murder,,,(FC)1029,Felony,"  
+
+(a) Murder is the unlawful killing of a human being, or a fetus, with malice aforethought.
+
+(b) Any person who commits murder associated with the following shall be classed as first-degree murder:
+(1.) Using a destructive device or explosive, a weapon of mass destruction, poison, or metal piercing ammunition
+(2.) Torturing someone
+(3.)Murdering someone willfully, deliberately, and with premeditation
+or if an individual is killed in any of the following crimes:
+(5.) Arson
+(6.) Robbery
+(7.) Burglary
+(8.) Carjacking
+(9.) Train Wrecking
+(10.) Kidnapping
+(11.) Mayhem
+(12.) Torture
+​
+(c) Any person who commits murder willfully but without malice or premeditation shall be classed as second-degree murder.
+
+(d) Any person who commits murder under the following shall be classed as capital murder:
+(1.) The murder of another for financial gain;
+(2.) The murder of a state-employed person such as a police officer, firefighter or public official;
+(3.) relievedface: The murder of another because of their race, color, religion, etc.;
+(4.) The murder of another by drive-by;
+(5.) the murder of more than one victim."
+Pandering,,,(FC)1030,Felony,"
+(a) Except as provided in subdivision (b), any person who does any of the following is guilty of pandering, a felony, and shall be punishable by imprisonment in the state prison for three, four, or six years:
+
+(1) Procures another person for the purpose of prostitution.
+
+(2) By promises, threats, violence, or by any device or scheme, causes, induces, persuades, or encourages another person to become a prostitute.
+
+(3) Procures for another person a place as an inmate in a house of prostitution or as an inmate of any place in which prostitution is encouraged or allowed within this state.
+
+(4) By promises, threats, violence, or by any device or scheme, causes, induces, persuades, or encourages an inmate of a house of prostitution, or any other place in which prostitution is encouraged or allowed, to remain therein as an inmate.
+
+(5) By fraud or artifice, or by duress of person or goods, or by abuse of any position of confidence or authority, procures another person for the purpose of prostitution, or to enter any place in which prostitution is encouraged or allowed within this state, or to come into this state or leave this state for the purpose of prostitution.
+
+(6) Receives or gives, or agrees to receive or give, any money or thing of value for procuring, or attempting to procure, another person for the purpose of prostitution, or to come into this state or leave this state for the purpose of prostitution."
+Police Corruption,,,(FC)1031,Felony,
+Possession while trafficking,,,(FC)1032,Felony,Any person found to be in possession of a firearm while selling or attempting to sell narcotics is guilty of this offence
+Possession of an Automatic Weapon,,,(FC)1033,Felony,"Any person found to be in possesion of a automatic firearm is guilty of this offence, Exempt from this is Law enforcment while undertaking the duties of a law enforecment officer."
+Possession of a firearm during a felony,,,(FC)1034,Felony,Any person found to be in possesion of a firearm during the commision of a felony offence is guilty of this offence
+Robbery,,,(FC)1035,Felony,the action of taking property unlawfully from a person or place by force or threat of force.
+Theft of a Vehicle,,,(FC)1036,Felony,"Theft of a motor vehicle is defined as the unlawful taking/use of a vehicle.
+
+Any person found to be in possesion of a vehicle not registerd to them or using without permission can be found guilty of this offence.
+
+Any person witnessed to be removing a driver and or passengers from a vehicle to take the vehicle is guilty of Car-Jacking"
+Terroristic Threats,,,(FC)1037,Felony,A terroristic threat is a threat to commit a crime of violence or a threat to cause bodily injury to another person and terrorization as the result of the proscribed conduct
+Unlawful Sale of a Firearm,,,(FC)1038,Felony,The sale or resale of a firearm by a individual or coorporation that is not licenced to sell a firearm is guilty of this offence
+Possession of an Electronic Control Device,,,(FC)1039,Felony,"Any person found to be in possesion of a ""Taser"" is guilty of this offence. Exempt are Law enforcment officers whilst performing duties of a law enforcment officer."
